@@ -18,6 +18,3 @@ Branches:
 git checkout -b "nome da branch"
 git checkout "nome da branch" (para entrar na branch)
 git push origin nome da branch (envia a branch para o github)
-
-
-
